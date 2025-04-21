@@ -3,7 +3,7 @@ package handlers
 import (
 	"net/http"
 
-	"github.com/devadigapratham/raft3d/api/models"
+	"github.com/Basavaraj133/raft3d/api/models"
 	"github.com/gin-gonic/gin"
 	"github.com/google/uuid"
 )
