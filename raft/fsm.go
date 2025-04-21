@@ -6,7 +6,7 @@ import (
 	"io"
 	"sync"
 
-	"github.com/devadigapratham/raft3d/api/models"
+	"github.com/Basavaraj133/raft3d/api/models"
 	"github.com/hashicorp/raft"
 )
 
