@@ -2,8 +2,8 @@
 package api
 
 import (
-	"github.com/devadigapratham/raft3d/api/handlers"
-	"github.com/devadigapratham/raft3d/raft"
+	"github.com/Basavaraj133/raft3d/api/handlers"
+	"github.com/Basavaraj133/raft3d/raft"
 	"github.com/gin-gonic/gin"
 )
 
