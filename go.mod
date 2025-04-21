@@ -1,4 +1,4 @@
-module github.com/devadigapratham/raft3d
+module github.com/Basavaraj133/raft3d
 
 go 1.21
 
