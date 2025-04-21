@@ -8,9 +8,9 @@ import (
 	"path/filepath"
 	"syscall"
 
-	"github.com/devadigapratham/raft3d/api"
-	"github.com/devadigapratham/raft3d/config"
-	"github.com/devadigapratham/raft3d/raft"
+	"github.com/Basavaraj133/raft3d/api"
+	"github.com/Basavaraj133/raft3d/config"
+	"github.com/Basavaraj133/raft3d/raft"
 )
 
 func main() {
